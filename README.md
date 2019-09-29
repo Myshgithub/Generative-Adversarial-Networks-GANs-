@@ -29,4 +29,6 @@ Serena Yeung: http://ai.stanford.edu/~syyeung/
 
 Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs
 
+Pytorch 
+
 
