@@ -19,6 +19,7 @@ Instructors:
 Fei-Fei Li: http://vision.stanford.edu/feifeili/
 Justin Johnson: http://cs.stanford.edu/people/jcjohns/
 Serena Yeung: http://ai.stanford.edu/~syyeung/
+
 ---------------------------------------------------------------------------------------
 # Codes:
 
