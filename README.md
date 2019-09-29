@@ -2,10 +2,10 @@
 Practicing different available versions and codes for GANs and Autoencoder:
 
 # Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
-Lecture 13 | Generative Models
+Lecture 11 | Generative Models
 Spring 2019
 
-In Lecture 13 they move beyond supervised learning, and discuss generative modeling as a form of unsupervised learning. They cover the autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs).
+In Lecture 11 they move beyond supervised learning, and discuss generative modeling as a form of unsupervised learning. They cover the autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs).
 
 Keywords: Generative models, PixelRNN, PixelCNN, autoencoder, variational autoencoder, VAE, generative adversarial network, GAN
 
