@@ -9,7 +9,7 @@ In Lecture 11 they move beyond supervised learning, and discuss generative model
 
 Keywords: Generative models, PixelRNN, PixelCNN, autoencoder, variational autoencoder, VAE, generative adversarial network, GAN
 
-Slides: http://cs231n.stanford.edu/slides/201...
+Slides: http://cs231n.stanford.edu/slides
 
 --------------------------------------------------------------------------------------
 
