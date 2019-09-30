@@ -1,5 +1,5 @@
 # Generative-Adversarial-Networks-GANs 
-Practicing different available versions and codes for GANs and Autoencoder:
+Practicing different available versions and codes for Generative Models such as GANs and Autoencoder:
 
 # Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
 Lecture 11 | Generative Models
