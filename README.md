@@ -45,9 +45,7 @@ Overview of the theoretical basis and connections of deep generative models
     Variational Autoencoders, Kingma and Welling, 2014.
     Generative Adversarial Nets, Goodfellow et al., 2014.
     Sanjeev Arora's blog post on GANs.
-    
-    Lecture #18 (
-    
+        
  	Lecture #18 (guest lecture, Zhiting Hu):
 Deep generative models (part 2)
 - GANs and their variations
