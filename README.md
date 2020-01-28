@@ -48,7 +48,7 @@ Overview of the theoretical basis and connections of deep generative models
         
  	Lecture #18 (guest lecture, Zhiting Hu):
 	
-	Module 3: Deep Learning & Generative Models
+Module 3: Deep Learning & Generative Models
 
 	Lecture #17, 18 (Eric- guest lecture, Zhiting Hu):
 	Lecture #17 (Eric):
