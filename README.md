@@ -47,6 +47,13 @@ Overview of the theoretical basis and connections of deep generative models
     Sanjeev Arora's blog post on GANs.
         
  	Lecture #18 (guest lecture, Zhiting Hu):
+	
+	Module 3: Deep Learning & Generative Models
+
+	Lecture #17, 18 (Eric- guest lecture, Zhiting Hu):
+	Lecture #17 (Eric):
+Deep generative models (part 1):
+
 Deep generative models (part 2)
 - GANs and their variations
 - Normalizing Flows
