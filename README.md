@@ -5,6 +5,7 @@ Practicing different available versions and codes for Generative Models such as 
 Lecture 11 | Generative Models
 Spring 2019
 , Lecture 13 | Generative Models Spring 2017
+https://www.youtube.com/watch?v=5WoItGTWV54&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=13
 
 In Lecture 11 they move beyond supervised learning, and discuss generative modeling as a form of unsupervised learning. They cover the autoregressive PixelRNN and PixelCNN models, traditional and variational autoencoders (VAEs), and generative adversarial networks (GANs).
 
@@ -20,6 +21,9 @@ Instructors:
 Fei-Fei Li: http://vision.stanford.edu/feifeili/
 Justin Johnson: http://cs.stanford.edu/people/jcjohns/
 Serena Yeung: http://ai.stanford.edu/~syyeung/
+
+# Videos: 
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 ---------------------------------------------------------------------------------------
 # Codes:
