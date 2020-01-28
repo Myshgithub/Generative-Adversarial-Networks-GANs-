@@ -10,7 +10,8 @@ http://onlinehub.stanford.edu/
 
 , Lecture 4 - Adversarial Attacks / GANs
 https://www.youtube.com/watch?v=ANszao6YQuM
-All the videos: http://cs230.stanford.edu/lecture/
+
+All the other videos: http://cs230.stanford.edu/lecture/
 
 # 2) Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
 Lecture 11 | Generative Models
