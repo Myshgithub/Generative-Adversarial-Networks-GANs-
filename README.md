@@ -26,6 +26,40 @@ Keywords: Generative models, PixelRNN, PixelCNN, autoencoder, variational autoen
 
 Slides: http://cs231n.stanford.edu/slides
 
+# 3) Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+https://www.cs.cmu.edu/~epxing/Class/10708-19/lectures/
+
+Module 3: Deep Learning & Generative Models
+
+	Lecture #17 (Eric):
+Deep generative models (part 1):
+Overview of the theoretical basis and connections of deep generative models
+- Wake sleep algorithm
+- Variational autoencoders
+- Generative adversarial networks
+- A unified view of DGM
+[ slides | video | notes ] 	
+
+    Deep learning book, Ch. 20.9-10
+    Variational Autoencoders, Kingma and Welling, 2014.
+    Generative Adversarial Nets, Goodfellow et al., 2014.
+    Sanjeev Arora's blog post on GANs.
+
+	
+ 	Lecture #18 (guest lecture, Zhiting Hu):
+Deep generative models (part 2)
+- GANs and their variations
+- Normalizing Flows
+- Integrating domain knowledge in DL
+[ slides | video | notes ] 	
+
+    Arjovsky, Bottou, Towards principled methods for training generative adversarial networks.
+    Kingma, Dhariwal, Glow - Generative Flow with Invertible 1x1 Convolutions.
+    Hu et al., Harnessing Deep Neural Networks with Logic Rules.
+    Hu et al., Deep Generative Models with Learnable Knowledge Constraints.
+
+
+
 --------------------------------------------------------------------------------------
 
 Convolutional Neural Networks for Visual Recognition
