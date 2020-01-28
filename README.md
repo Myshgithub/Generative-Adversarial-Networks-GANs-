@@ -31,7 +31,7 @@ https://www.cs.cmu.edu/~epxing/Class/10708-19/lectures/
 
 Module 3: Deep Learning & Generative Models
 
-	Lecture #17 (Eric):
+	Lecture #17, 18 (Eric- guest lecture, Zhiting Hu):
 Deep generative models (part 1):
 Overview of the theoretical basis and connections of deep generative models
 - Wake sleep algorithm
