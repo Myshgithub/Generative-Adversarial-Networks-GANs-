@@ -7,6 +7,7 @@ Practicing different available versions and codes for Generative Models such as 
 stanfordonline: http://cs230.stanford.edu/
 Andrew Ng, Adjunct Professor & Kian Katanforoosh, Lecturer - Stanford University
 http://onlinehub.stanford.edu/
+http://cs230.stanford.edu/syllabus/
 
 , Lecture 4 - Adversarial Attacks / GANs
 https://www.youtube.com/watch?v=ANszao6YQuM
