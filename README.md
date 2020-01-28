@@ -1,7 +1,18 @@
 # Generative-Adversarial-Networks-GANs 
 Practicing different available versions and codes for Generative Models such as GANs and Autoencoder:
 
-# Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
+# Resources:
+
+# 1) Stanford CS230: Deep Learning | Autumn 2018 | Lecture 4 - Adversarial Attacks / GANs
+stanfordonline: http://cs230.stanford.edu/
+Andrew Ng, Adjunct Professor & Kian Katanforoosh, Lecturer - Stanford University
+http://onlinehub.stanford.edu/
+
+, Lecture 4 - Adversarial Attacks / GANs
+https://www.youtube.com/watch?v=ANszao6YQuM
+All the videos: http://cs230.stanford.edu/lecture/
+
+# 2) Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
 Lecture 11 | Generative Models
 Spring 2019
 , Lecture 13 | Generative Models Spring 2017
