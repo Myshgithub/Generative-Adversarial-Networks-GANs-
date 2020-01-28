@@ -45,6 +45,10 @@ Overview of the theoretical basis and connections of deep generative models
     Generative Adversarial Nets, Goodfellow et al., 2014.
     Sanjeev Arora's blog post on GANs.
     
+    s
+
+	Lecture #17 (Eric):
+Deep generative models (part 1):
 
 	Lecture #18 (guest lecture, Zhiting Hu):
 Deep generative models (part 2)
