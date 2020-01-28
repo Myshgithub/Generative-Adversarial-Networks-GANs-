@@ -17,6 +17,11 @@ All the other videos: http://cs230.stanford.edu/lecture/
 # 2) Stanford University School of Engineering-CS231n: Convolutional Neural Networks for Visual Recognition
 Lecture 11 | Generative Models
 Spring 2019
+Instructors:
+Fei-Fei Li: http://vision.stanford.edu/feifeili/
+Justin Johnson: http://cs.stanford.edu/people/jcjohns/
+Serena Yeung: http://ai.stanford.edu/~syyeung/
+
 , Lecture 13 | Generative Models Spring 2017
 https://www.youtube.com/watch?v=5WoItGTWV54&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=13
 
@@ -45,16 +50,12 @@ Overview of the theoretical basis and connections of deep generative models
     Variational Autoencoders, Kingma and Welling, 2014.
     Generative Adversarial Nets, Goodfellow et al., 2014.
     Sanjeev Arora's blog post on GANs.
-        
- 	Lecture #18 (guest lecture, Zhiting Hu):
 	
 Module 3: Deep Learning & Generative Models
 
-	Lecture #17, 18 (Eric- guest lecture, Zhiting Hu):
-	Lecture #17 (Eric):
-Deep generative models (part 1):
+	Lecture #18 (guest lecture, Zhiting Hu):
 
-Deep generative models (part 2)
+Deep generative models (part 2):
 - GANs and their variations
 - Normalizing Flows
 - Integrating domain knowledge in DL
