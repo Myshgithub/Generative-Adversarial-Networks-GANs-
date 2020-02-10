@@ -9,8 +9,12 @@ Andrew Ng, Adjunct Professor & Kian Katanforoosh, Lecturer - Stanford University
 http://onlinehub.stanford.edu/
 http://cs230.stanford.edu/syllabus/
 
-, Lecture 4 - Adversarial Attacks / GANs
+, Lecture 4 - Topics: Adversarial examples - Adversarial Attacks / GANs
 https://www.youtube.com/watch?v=ANszao6YQuM
+
+, Lecture 5 -Completed modules:
+
+    C2M3: Hyperparameter Tuning, Batch Normalization 
 
 All the other videos: http://cs230.stanford.edu/lecture/
 
