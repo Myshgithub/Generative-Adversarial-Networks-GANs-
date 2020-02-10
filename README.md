@@ -12,9 +12,10 @@ http://cs230.stanford.edu/syllabus/
 , Lecture 4 - Topics: Adversarial examples - Adversarial Attacks / GANs
 https://www.youtube.com/watch?v=ANszao6YQuM
 
-, Lecture 5 -Completed modules:
-
-    C2M3: Hyperparameter Tuning, Batch Normalization 
+, Lecture 5 - Completed modules:
+ 
+    C2M2: Optimization algorithms (slides)
+    C2M3: Hyperparameter Tuning, Batch Normalization
 
 All the other videos: http://cs230.stanford.edu/lecture/
 
