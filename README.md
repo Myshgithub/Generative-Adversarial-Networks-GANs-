@@ -95,4 +95,10 @@ Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs
 
 Pytorch 
 
+# Link to Codes:
+- Keras implementations of Generative Adversarial Networks: https://github.com/eriklindernoren/Keras-GAN
+- PyTorch-GAN: Collection of PyTorch implementations of Generative Adversarial Network varieties presented in research papers
+https://github.com/eriklindernoren/PyTorch-GAN
+-
+
 
