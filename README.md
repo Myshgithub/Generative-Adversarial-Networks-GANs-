@@ -89,7 +89,7 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 # Codes:
 
 00-Simple-Autoencoder-for-PCA.py (www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python)
-00-GAN-Example.py (Create Generative Adversarial Networks with TensorFlow)(https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/8460158#overview)
+00-GAN-Example.py (Create Generative Adversarial Networks with TensorFlow for MNIST)(https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/8460158#overview)
 
 Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs
 
