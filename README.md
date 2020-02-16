@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=ANszao6YQuM
  
     C2M2: Optimization algorithms (slides)
     C2M3: Hyperparameter Tuning, Batch Normalization
+    
+    Related Link:
+    https://github.com/hktxt/Courses/tree/master/Courses/10.%20Deep-Learning-Specialization/Course%202%20Improving%20Deep%20Neural%20Networks/Week3
 
 All the other videos: http://cs230.stanford.edu/lecture/
 
