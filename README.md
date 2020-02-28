@@ -46,7 +46,7 @@ Module 3: Deep Learning & Generative Models
 
 	Lecture #17, 18 (Eric- guest lecture, Zhiting Hu):
 	Lecture #17 (Eric):
-Deep generative models (part 1):
+-Deep generative models (part 1):
 Overview of the theoretical basis and connections of deep generative models
 - Wake sleep algorithm
 - Variational autoencoders
@@ -63,7 +63,7 @@ Module 3: Deep Learning & Generative Models
 
 	Lecture #18 (guest lecture, Zhiting Hu):
 
-Deep generative models (part 2):
+-Deep generative models (part 2):
 - GANs and their variations
 - Normalizing Flows
 - Integrating domain knowledge in DL
