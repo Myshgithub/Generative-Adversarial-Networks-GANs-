@@ -96,7 +96,7 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 -GANForMNIST.py: Is an example, Using the famous MNIST dataset to produce a clone of a random digit: For Higher Versions that Leaky Relu Function is ready to use 
 
--Demistifying GANs in TensorFlow 2.0: Copy_of_Copy_of_GAN.ipynb, DemistifyingGANs 
+-Demistifying GANs in TensorFlow 2.0: Copy_of_Copy_of_GAN.ipynb, DemistifyingGANs, Copy_of_GAN.ipynb (Save Generated Images in a Folder) 
 
 Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs
 
