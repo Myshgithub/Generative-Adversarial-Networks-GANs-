@@ -88,6 +88,12 @@ Serena Yeung: http://ai.stanford.edu/~syyeung/
 # Videos: 
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
+
+# GANs Variations:
+
+-Deep Learning 33: Conditional Generative Adversarial Network (C-GAN) : Coding in Google Colab (https://www.youtube.com/watch?v=7Tlk3Gql-Wg&t=217s)
+
+
 ---------------------------------------------------------------------------------------
 # Codes:
 
@@ -95,6 +101,8 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 00-GAN-Example.py (Create Generative Adversarial Networks with TensorFlow for MNIST(Version 1.3: Not having Leaky Relu Function)(https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/8460158#overview)
 
 -GANForMNIST.py: Is an example, Using the famous MNIST dataset to produce a clone of a random digit: For Higher Versions that Leaky Relu Function is ready to use 
+
+-GANs for the MNIST Fashion DataSet: MNIST Fashion GAN.ipynb, MNIST Fashion GAN.py
 
 -Demistifying GANs in TensorFlow 2.0: Copy_of_Copy_of_GAN.ipynb, DemistifyingGANs, Copy_of_GAN.ipynb (Save Generated Images in a Folder) 
 
